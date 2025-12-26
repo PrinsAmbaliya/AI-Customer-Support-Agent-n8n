@@ -2,11 +2,10 @@
 
 
 ## Project Overview
-**AI-CustomerSupport-Agent-n8n** ek intelligent automation system hai jo AI ke madhyam se customer queries ka jawab deta hai.  
-Yeh project **n8n workflow automation tool** aur **Google Gemini API** ka use karta hai taaki customer support process ko smart aur automatic banaya ja sake.  
+**AI-CustomerSupport-Agent-n8n** is an AI-powered automation system designed to handle customer support queries efficiently and intelligently.
+This project leverages the **n8n workflow automation platform** along with the **Google Gemini API** to create a smart and scalable customer support solution.
 
-Isse aap ek 24x7 AI-based Customer Support Agent bana sakte ho jo user ke queries ko samajhta hai, unka jawab deta hai aur saare interactions ko **Google Sheet** me record karta hai.  
-
+The system acts as a **24x7 AI-based Customer Support Agent** that understands user queries, generates accurate and contextual responses, and automatically logs all customer interactions into **Google Sheets** for monitoring, reporting, and analysis.
 ---
 
 ## Tech Stack Used
